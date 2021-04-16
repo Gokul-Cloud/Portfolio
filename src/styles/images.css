@@ -1,0 +1,45 @@
+/* Add your profile image here */
+
+.Photo {
+    background-image: url('D:\port\src\components\Images\about.jpeg');
+}
+
+
+/* Projects Photo */
+
+.project1 {
+    background-image: url('D:\port\src\components\Images\urlShortner.png');
+    cursor: none;
+}
+
+.project2 {
+    background-image: url('D:\port\src\components\Images\blog.jpeg');
+    cursor: none;
+}
+
+.project3 {
+    background-image: url('D:\port\src\components\Images\Zoom.jpg');
+    cursor: none;
+}
+
+.project4 {
+    background-image: url('D:\port\src\components\Images\excercise.jpg');
+    cursor: none;
+}
+
+.project5 {
+    background-image: url('D:\port\src\components\Images\ecommerce.jpg');
+    cursor: none;
+}
+
+.project6 {
+    background-image: url('D:\port\src\components\Images\social media.jpg');
+    cursor: none;
+}
+
+
+/* Contact form parallax effect image */
+
+.parallax {
+    background-image: url('https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+}
